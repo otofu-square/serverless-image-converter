@@ -1,0 +1,7 @@
+{
+  "name": "serverless-image-converter",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "ssh://git@github.com/otofu-square/serverless-image-converter.git",
+  "license": "MIT"
+}
